@@ -25,10 +25,11 @@ This is my portfolio website, showcasing my projects and skills in web developme
 ## Screenshots-
 
 Landing page-
-![Screenshot (239)](https://github.com/niranjanpowade/Portfolio_website/assets/68785115/0feb5ab1-3f4f-4736-bd81-a9211df40de1)
+![Screenshot (259)](https://github.com/niranjanpowade/Portfolio-Old/assets/143339173/e5efe9d3-691c-46f2-bd89-f389c68ecead)
 About Me-
-![Screenshot (240)](https://github.com/niranjanpowade/Portfolio_website/assets/68785115/9e6f8413-7e7e-41f2-b518-f4ecd4955a34)
+![Screenshot (260)](https://github.com/niranjanpowade/Portfolio-Old/assets/143339173/84231785-ca8d-439b-aef5-0dc5617ba05f)
 My skills-
-![Screenshot (241)](https://github.com/niranjanpowade/Portfolio_website/assets/68785115/0bcaf5ab-fa84-4709-bf8d-f451febaa298)
+![Screenshot (262)](https://github.com/niranjanpowade/Portfolio-Old/assets/143339173/05fbd89c-5502-4b74-a494-c9ead1568215)
 Contact-
-![Screenshot (242)](https://github.com/niranjanpowade/Portfolio_website/assets/68785115/955ed067-c775-4ff9-bc06-a64eb2893160)
+![Screenshot (261)](https://github.com/niranjanpowade/Portfolio-Old/assets/143339173/ddc18b0a-565d-4c44-a1e3-75d762bef2d4)
+
